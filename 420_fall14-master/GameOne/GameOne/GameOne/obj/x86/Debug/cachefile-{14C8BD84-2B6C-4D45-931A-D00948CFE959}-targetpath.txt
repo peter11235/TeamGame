@@ -1,0 +1,15 @@
+Content\Images\LadyZ.xnb
+Content\Images\chicken_walk.xnb
+Content\Images\demon.xnb
+Content\Images\fireball2.xnb
+Content\Images\reticle.xnb
+Content\Images\milkymilk.xnb
+Content\Images\tripy.xnb
+Content\Audio\WilhelmScream.xnb
+Content\Images\platform_ice_001-f.xnb
+Content\Images\fox.xnb
+Content\Audio\win_sound.xnb
+Content\Audio\fire.xnb
+Content\Audio\music.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb

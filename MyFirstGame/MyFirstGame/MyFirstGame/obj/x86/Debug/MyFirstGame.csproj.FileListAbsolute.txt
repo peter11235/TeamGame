@@ -1,0 +1,7 @@
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\Content\Images\glitch_spritesheet.xnb
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.exe
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\bin\x86\Debug\MyFirstGame.pdb
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.csprojResolveAssemblyReference.cache
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.exe
+\\cs.elon.edu\ptraunfeld\csc420\MyFirstGame\MyFirstGame\MyFirstGame\obj\x86\Debug\MyFirstGame.pdb

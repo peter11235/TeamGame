@@ -1,0 +1,1 @@
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSpriteContent\obj\x86\Debug\SimpleSpriteContent.contentprojResolveAssemblyReference.cache

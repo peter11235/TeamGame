@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetesGame1", "C:\Users\elon\Documents\Visual Studio 2010\Projects\PetesGame1\PetesGame1\PetesGame1\PetesGame1.csproj", "{C1DBA324-03AA-4967-8B0F-CBAF9D0EA6CB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PetesGame1Content", "C:\Users\elon\Documents\Visual Studio 2010\Projects\PetesGame1\PetesGame1\PetesGame1Content\PetesGame1Content.contentproj", "{9EAF5896-54B3-4EFC-9AD0-D90F0A9BB0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DBA324-03AA-4967-8B0F-CBAF9D0EA6CB}.Debug|x86.ActiveCfg = Debug|x86
+		{C1DBA324-03AA-4967-8B0F-CBAF9D0EA6CB}.Debug|x86.Build.0 = Debug|x86
+		{C1DBA324-03AA-4967-8B0F-CBAF9D0EA6CB}.Release|x86.ActiveCfg = Release|x86
+		{C1DBA324-03AA-4967-8B0F-CBAF9D0EA6CB}.Release|x86.Build.0 = Release|x86
+		{9EAF5896-54B3-4EFC-9AD0-D90F0A9BB0EF}.Debug|x86.ActiveCfg = Debug|x86
+		{9EAF5896-54B3-4EFC-9AD0-D90F0A9BB0EF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

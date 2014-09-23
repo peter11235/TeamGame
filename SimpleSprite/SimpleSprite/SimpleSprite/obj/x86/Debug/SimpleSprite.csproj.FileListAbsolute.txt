@@ -1,0 +1,8 @@
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\bin\x86\Debug\Content\Images\logo.xnb
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\bin\x86\Debug\SimpleSprite.exe
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\bin\x86\Debug\SimpleSprite.pdb
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\obj\x86\Debug\SimpleSprite.csprojResolveAssemblyReference.cache
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\obj\x86\Debug\SimpleSprite.exe
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\obj\x86\Debug\SimpleSprite.pdb
+\\cs.elon.edu\ptraunfeld\csc420\SimpleSprite\SimpleSprite\SimpleSprite\bin\x86\Debug\Content\Images\glitch.xnb

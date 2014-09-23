@@ -1,0 +1,51 @@
+
+        /* Jumping State */
+        private class JumpingState : AbstractState
+        {
+           
+            public JumpingState(GlitchPlayer player)
+                : base(player)
+            {
+            }
+
+            public override void Update(GameTime gameTime, Rectangle clientBounds)
+            {
+
+                player.pauseAnimation = false;
+
+                
+                if (player.currentFrame == player.spriteSheet.currentSegment.endFrame)
+                {
+                    player.switchState(GlitchPlayerState.Walking); //start walking
+                }
+            }
+        }
+
+        /* Climbing State */
+        private class ClimbingState : AbstractState
+        {
+            Point startFrame;
+            public ClimbingState(GlitchPlayer player)
+                : base(player)
+            {
+                 startFrame = new Point(0,1);
+            }
+            
+            public override void Update(GameTime gameTime, Rectangle clientBounds)
+            {
+                player.pauseAnimation = false;
+
+                if (player.direction.X == 0 && player.direction.Y == 0)
+                {
+                    player.pauseAnimation = true;
+                }
+                if (player.direction.X != 0) //if player starts moving horizontally
+                {
+                    player.switchState(GlitchPlayerState.Walking);
+                }
+                if (player.currentFrame == player.spriteSheet.currentSegment.endFrame)
+                {
+                    player.currentFrame = startFrame; //keep climbing until X position changes
+                }
+            }
+        }

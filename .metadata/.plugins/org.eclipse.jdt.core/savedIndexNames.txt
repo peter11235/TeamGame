@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+\\cs.elon.edu\ptraunfeld\csc420\.metadata\.plugins\org.eclipse.jdt.core
+2520280368.index
+1596352335.index
+519637825.index
+3103391008.index
+775023198.index
+595343653.index
+3324158383.index
+4209962238.index
+4234720008.index
+2832660796.index
+2935521877.index
+3457514622.index
+2060853100.index
+1341540182.index
+3613380683.index
+339064593.index
+1585181465.index
+2415931695.index
+3109155262.index
